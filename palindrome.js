@@ -8,3 +8,4 @@ if(str==pal){
 }
 else{
     console.log("This is not palindrome")
+}
