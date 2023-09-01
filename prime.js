@@ -11,3 +11,4 @@ if(fac=2){
 else{
     console.log("Not Prime")
 }
+let str="we have make changes here "
